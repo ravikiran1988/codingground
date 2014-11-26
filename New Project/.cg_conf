@@ -1,0 +1,1 @@
+{"id":"fsharp","ext":"fs","version":"Mono v3.10.0","compile":"fs *.fs --out:main.exe","execute":"mono main.exe","preview":"","file":"/home/cg/src/samples/main.fs","url":"compile_fsharp_online.php","mode":"csharp"}
